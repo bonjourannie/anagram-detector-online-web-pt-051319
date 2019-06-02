@@ -5,6 +5,8 @@ class Anagram
   
   def initialize(word)
     %w(word) 
+    @word = word
+    word
   end
   
 
