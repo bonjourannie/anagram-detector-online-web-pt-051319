@@ -7,7 +7,7 @@ class Anagram
     @word = word
   end
   
-  def initialize(word)
+  def match(array_of_words)
     %w(word).match
     self.match{|w| w.match ==
     
