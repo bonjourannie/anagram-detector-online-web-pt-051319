@@ -5,8 +5,8 @@ class Anagram
   
   def initialize(word)
     %w(word).match
-    @word = word
-    word
+    self.match{|w| w.match ==
+    
   end
   
 
