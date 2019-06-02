@@ -1,6 +1,8 @@
 # Your code goes here!
 class Anagram
   
-  def 
+  def detector(word)
+    
+  end
   
 end
